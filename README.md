@@ -1,4 +1,4 @@
-### $ How to Install
+go### $ How to Install
 
 Open the terminal and type following commands.
 
@@ -10,7 +10,7 @@ Open the terminal and type following commands.
 
 * `pkg install python-pip`
 
-* `git clone https://github.com/xnln7/BOMB-X.git`
+* `git clone https://github.com/siftifybd/BOMB-X.git`
 
 * `cd BOMB-X`
 
@@ -25,19 +25,19 @@ Open the terminal and type following commands.
 
 ## Tutorial :
 <p>
-  <a href="https://youtube.com/@XNLN7">Tutorial Video</a>
+  <a href="https://youtube.com/@garenaofficialaccountbd10?si=Qvpy7LBSCR_4nLG1">Tutorial Video</a>
   </p>
 
 
 ## social media
 <p>
-  <a href="https://youtube.com/@Ethical_Universe">Youtube</a>
+  <a href="https://youtube.com/@garenaofficialaccountbd10?si=Qvpy7LBSCR_4nLG1">Youtube</a>
   </p>
 
   <p>
-  <a href="https://www.facebook.com/EthicalUniversebd">Facebook</a>
+  <a href="https://www.facebook.com/profile.php?id=61595544485066">Facebook</a>
   </p>
 
 <p>
-  <a href="https://ethacaluniverse.blogspot.com">Website</a>
+  <a href="https://apkupload.rf.gd">Website</a>
   </p>
